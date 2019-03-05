@@ -1,0 +1,7 @@
+C:\Users\Ozz\C#_projects\HW_2_GuessNumber\HW_2_GuessNumber\bin\Debug\HW_2_GuessNumber.exe.config
+C:\Users\Ozz\C#_projects\HW_2_GuessNumber\HW_2_GuessNumber\bin\Debug\HW_2_GuessNumber.exe
+C:\Users\Ozz\C#_projects\HW_2_GuessNumber\HW_2_GuessNumber\bin\Debug\HW_2_GuessNumber.pdb
+C:\Users\Ozz\C#_projects\HW_2_GuessNumber\HW_2_GuessNumber\obj\Debug\HW_2_GuessNumber.csprojAssemblyReference.cache
+C:\Users\Ozz\C#_projects\HW_2_GuessNumber\HW_2_GuessNumber\obj\Debug\HW_2_GuessNumber.csproj.CoreCompileInputs.cache
+C:\Users\Ozz\C#_projects\HW_2_GuessNumber\HW_2_GuessNumber\obj\Debug\HW_2_GuessNumber.exe
+C:\Users\Ozz\C#_projects\HW_2_GuessNumber\HW_2_GuessNumber\obj\Debug\HW_2_GuessNumber.pdb
